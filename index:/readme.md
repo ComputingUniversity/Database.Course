@@ -1,1 +1,3 @@
 - https://www.coursera.org/learn/database-architecture-scale-nosql-elasticsearch-postgresql
+- https://www.coursera.org/professional-certificates/ibm-data-engineer
+- https://www.coursera.org/specializations/postgresql-for-everybody

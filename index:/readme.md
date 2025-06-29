@@ -1,0 +1,1 @@
+- https://www.coursera.org/learn/database-architecture-scale-nosql-elasticsearch-postgresql
